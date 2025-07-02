@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sanket-dse.github.io/al-folio_sanket/sitemap.xml
