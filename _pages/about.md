@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a cognitive neuroscientist in training and a research assistant in a [translation neuroscience](https://sites.google.com/view/transit-lab) lab at Indian Institute of Technology (IIT) Kanpur. My masters thesis was in a [cognitive neuroscience](https://cns.iisc.ac.in/sridhar/index.html) lab at Indian Institute of Science (IISc) Bangalore. 
+I am a cognitive neuroscientist in training and a research assistant in a [translational neuroscience](https://sites.google.com/view/transit-lab) lab at Indian Institute of Technology (IIT) Kanpur. My masters thesis was in a [cognitive neuroscience](https://cns.iisc.ac.in/sridhar/index.html) lab at Indian Institute of Science (IISc) Bangalore. 
 
 My research endeavours span across various sub-areas of cognitive science like attention, social decision making and translational neuroscience [(more details)](https://sanket-dse.github.io/al-folio_sanket/projects/). I employ various techniques like psychophysics, multimodal non-invasive electrophysiological recordings like electroencephalogram (EEG) and [electrogastrogram (EGG)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3548127/), and computational modelling.
 

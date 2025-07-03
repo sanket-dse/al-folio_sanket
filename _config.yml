@@ -190,6 +190,12 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _pages/books.md # Add files to remove from this line
+  - _pages/dropdown.md
+  - _pages/news.md
+  - _pages/profiles.md
+  - _pages/repositories.md
+  - _pages/teaching.md
 keep_files:
   - CNAME
   - .nojekyll
